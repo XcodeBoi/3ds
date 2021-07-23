@@ -15,7 +15,7 @@ The 3DS supports both 3DS cartriages and DS cartriages. I also purchased several
 - Links awakening, digital licence (awesome, best zelda game out of the 3 ive played)
 ## State of 3DS
 - SD card slot and cover: Perfect.
-- Cartridge slot: Perfect.
+- Cartridge slot: Almost perfect, sometimes cartridges get a bit caught up. 100% usable just occationally you have to poke at it a bit. Standard used 3ds stuff.
 - Charging status light: Perfect.
 - Power status light: Perfect.
 - 3D status light: Perfect.
